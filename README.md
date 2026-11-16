@@ -1,21 +1,32 @@
 # Andy Venture Lab
 
-**AI-assisted software engineering | CI/CD reliability | TypeScript & Node.js**
+**AI-driven B2B research, workflow automation & practical business solutions**
 
-We help small teams diagnose and resolve narrowly scoped build and deployment workflow problems.
+Andy Venture Lab helps small businesses turn repetitive processes and public market information into usable decisions and time-saving workflows. We start with a concrete business problem, deliver a narrow pilot, and build custom software only when customer demand justifies it.
 
-## Services
-- **CI Diagnostic Review — from €39**: assessment of one failing workflow, root-cause notes and recommended fix.
-- **CI Rescue Fix — from €89**: one agreed workflow fix, a reviewable pull request and reproducible test evidence.
-- **TypeScript Test Sprint — from €149**: focused tests for one small module, subject to scope confirmation.
+## Pilot services (indicative prices, subject to a written scope)
 
-## How we work
-Every engagement starts with written acceptance criteria and an agreed fixed scope. We use AI-assisted development and validate deliverables through reproducible tests and human oversight. We never require production credentials for an initial diagnosis.
+- **Market Opportunity Snapshot — from €79:** a focused report on a defined industry, target market or publicly available competitor signals, including sources and limitations.
+- **Sales Research Brief — from €149:** a defined set of company-level prospects, fit criteria and suggested next actions, based on legitimately available public information. No bulk unsolicited messaging or sale of personal contact lists.
+- **Workflow Automation Assessment — from €99:** map one recurring business workflow, quantify its pain points, and propose a low-risk automation plan.
+- **Automation Proof of Concept — priced after scoping:** one testable process with explicit acceptance criteria, privacy review and client-owned accounts.
 
-## Example work
-See [ci-rescue-demo](https://github.com/AndyVentureLab/ci-rescue-demo) for a self-contained GitHub Actions health-check example and automated tests. This is a demo, not client work.
+All prices are experimental starting points, not binding offers or proof of completed client work.
+
+## Our process
+1. **Discover** a verifiable business problem and identify a buyer.
+2. **Validate** customer needs and budget before large development work.
+3. **Deliver** a small, testable, source-linked pilot.
+4. **Measure** time saved or decision value and improve only with evidence.
+
+AI-assisted methods are used transparently. Research is checked against sources; customer confidential information requires explicit safeguards. Contracts, billing and payments are handled by the verified human account holder.
+
+## Technical capability
+TypeScript, Node.js, GitHub Actions and API integrations remain available where technology is needed. Our [CI Rescue Demo](https://github.com/AndyVentureLab/ci-rescue-demo) is a public technical sample, not a paid client engagement.
 
 ## Contact
-Email: damiennox37@proton.me
+**Email:** damiennox37@proton.me
 
-Owner-operated business initiative; legal contracting and payments are handled by the verified human account holder. No claims of past paid customers are made here.
+Based in Finland. English-language business communication available.
+
+*Status: early-stage pilot. We do not claim previous paid customers or guaranteed commercial results.*
